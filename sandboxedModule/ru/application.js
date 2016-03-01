@@ -9,7 +9,7 @@ module.exports = function() {
   // Вывод из контекста экспортируемой функции
   console.log('From application exported function');
 };
-module.exports = function() {
-  // Вывод из контекста экспортируемой функции
-  console.log('SI');
-};
+//setTimeout(()=>{console.log('setTimeout');},2000);
+//setInterval(()=>{console.log('setInterval');},2000);
+
+console.log(util.isArray([2,3,4]));

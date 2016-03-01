@@ -1,0 +1,6 @@
+application Tue Mar 01 2016 17:52:48 GMT+0200 (Финляндия (зима)) From application global context
+application Tue Mar 01 2016 17:52:48 GMT+0200 (Финляндия (зима)) true
+application Tue Mar 01 2016 17:52:48 GMT+0200 (Финляндия (зима)) From application exported function
+application Tue Mar 01 2016 17:52:55 GMT+0200 (Финляндия (зима)) From application global context
+application Tue Mar 01 2016 17:52:55 GMT+0200 (Финляндия (зима)) true
+application Tue Mar 01 2016 17:52:55 GMT+0200 (Финляндия (зима)) From application exported function
