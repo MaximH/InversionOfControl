@@ -15,7 +15,7 @@ var fs = require('fs'),
       fn.apply(undefined, args);
     }
   }	
-	
+	///
 	
  function cloneInterface(anInterface) {
     var clone = {};
